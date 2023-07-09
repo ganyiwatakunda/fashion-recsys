@@ -3,3 +3,4 @@ PATH = "/content/drive/MyDrive/"
 pickle_in = open(PATH + "embeddings.pkl","rb")
 pickle_in.seek(0)
 embeddings = pickle.load(pickle_in)
+print(embeddings)
