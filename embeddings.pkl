@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:758dbae738aec0c70d5a6794d0bae4dd7079e58475a0c4778dadc0d658a7b518
-size 365621870
+import pickle
+PATH = "/content/drive/MyDrive/"
+pickle_in = open(PATH + "embeddings.pkl","rb")
+embeddings = pickle.load(pickle_in)
