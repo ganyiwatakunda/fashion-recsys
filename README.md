@@ -16,11 +16,11 @@ This is a model of a Fashion Recommender System using the KNearest neighbor algo
 ## Demo
 
 Here is the welcome page of the Fashion Recommendation System :
-![demo image of running program](https://github.com/ganyiwatakunda/Text-Prediction/blob/master/images/Text%20Prediction%20sample.png)
+![demo image of running program](https://github.com/ganyiwatakunda/fashion-recsys/blob/master/demo/open.png)
 
 ### final output of demo:
 
-![demo image of running program](https://github.com/ganyiwatakunda/Text-Prediction/blob/master/images/Text%20Prediction%20sample.png)
+![demo image of running program](https://github.com/ganyiwatakunda/fashion-recsys/blob/master/demo/Frontdemo.png)
 
 
 ## Implementation
