@@ -18,8 +18,10 @@ This is a model of a Fashion Recommender System using the KNearest neighbor algo
 Here is the welcome page of the Fashion Recommendation System :
 ![demo image of running program](https://github.com/ganyiwatakunda/fashion-recsys/blob/main/Demo/open.jpg)
 
-### final output of demo:
+### final output examples of demo:
 
+![demo image of running program](https://github.com/ganyiwatakunda/fashion-recsys/blob/main/Demo/recsys1.png)
+![demo image of running program](https://github.com/ganyiwatakunda/fashion-recsys/blob/main/Demo/recsys2.png)
 ![demo image of running program](https://github.com/ganyiwatakunda/fashion-recsys/blob/main/Demo/Frontdemo.jpg)
 
 
