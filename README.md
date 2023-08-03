@@ -24,6 +24,6 @@ Here is the welcome page of the Fashion Recommendation System :
 2
 ![demo image of running program](https://github.com/ganyiwatakunda/fashion-recsys/blob/main/Demo/recsys2.png)
 
- 3 ![demo image of running program](https://github.com/ganyiwatakunda/fashion-recsys/blob/main/Demo/Frontdemo.jpg)
+
 
 
