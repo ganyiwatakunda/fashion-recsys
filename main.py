@@ -65,17 +65,22 @@ if uploaded_file is not None:
         # recommendention
         indices = recommend(features,feature_list)
         # show
-        col1,col2,col3,col4,col5 = st.beta_columns(5)
+        col1,col2,col3,col4,col5 = st.columns(5)
 
         with col1:
+            st.header("A")
             st.image(filenames[indices[0][0]])
         with col2:
+            st.header("B")
             st.image(filenames[indices[0][1]])
         with col3:
+            st.header("C")
             st.image(filenames[indices[0][2]])
         with col4:
+            st.header("D")
             st.image(filenames[indices[0][3]])
         with col5:
+            st.header("E")
             st.image(filenames[indices[0][4]])
     else:
         st.header("Some error occured in file upload")
